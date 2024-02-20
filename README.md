@@ -1,4 +1,4 @@
-HEAD
+
 Exploratory Data Analysis (EDA) Repository
 This repository contains notebooks, scripts, and resources related to Exploratory Data Analysis (EDA) of various datasets.
 
@@ -20,4 +20,4 @@ Open the notebooks using Jupyter Notebook or JupyterLab, or run the scripts usin
 Contributing
 Contributions to this repository are welcome! If you have an EDA notebook, script, or dataset that you would like to share, please feel free to submit a pull request.
 
->>>>>>> 07a73c1d9dfe6a61c5c0453a482b123f72f50f95
+
